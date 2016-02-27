@@ -8,4 +8,5 @@ NÃO ESTÁ PRONTO! Adiciona o método de pagamento da Komerci/RedeCard
 - **3.** Tratar algumas funções.
 - **4.** Trabalhar nas parcelas (divisão, mostrar os valores do jeito certo).
 - **5.** Validar formulários.
+- Quando for o método pre_auth, não dar pedido concluido. Apenas aguardando.
 - **6.** Trocar tudo o que é woocommerce-komerci para wc-komerci por ser uma versão beta xD
